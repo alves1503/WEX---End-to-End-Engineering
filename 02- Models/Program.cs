@@ -1,5 +1,9 @@
 ﻿//Busca a classe na pasta models
-using _02__Models.obj;
+using ModelLs;
 
 
-Pessoa = new Pessoa();
+Pessoa pessoa1 = new Pessoa();
+
+pessoa1.Nome = "Henrique";
+pessoa1.Idade = 20;
+pessoa1.Apresentar();
