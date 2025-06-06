@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Busca a classe na pasta models
+using _02__Models.obj;
+
+
+Pessoa = new Pessoa();
