@@ -1,0 +1,5 @@
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Models/obj/Debug/net9.0/02- Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Models/obj/Debug/net9.0/02- Models.AssemblyInfoInputs.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Models/obj/Debug/net9.0/02- Models.AssemblyInfo.cs
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Models/obj/Debug/net9.0/02- Models.csproj.CoreCompileInputs.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Models/obj/Debug/net9.0/02- Models.sourcelink.json
