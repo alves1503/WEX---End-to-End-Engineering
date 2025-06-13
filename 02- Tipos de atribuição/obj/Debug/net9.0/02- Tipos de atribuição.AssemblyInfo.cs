@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02- Tipos de atribuição")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad8d60cc255ec2033a6df83e73f0fa05f5a6ad5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fda0c0268f158ec69fa9d200ba321980add11448")]
 [assembly: System.Reflection.AssemblyProductAttribute("02- Tipos de atribuição")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02- Tipos de atribuição")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
