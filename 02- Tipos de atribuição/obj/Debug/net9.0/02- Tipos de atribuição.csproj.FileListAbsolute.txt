@@ -1,0 +1,15 @@
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/bin/Debug/net9.0/02- Tipos de atribuição
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/bin/Debug/net9.0/02- Tipos de atribuição.deps.json
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/bin/Debug/net9.0/02- Tipos de atribuição.runtimeconfig.json
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/bin/Debug/net9.0/02- Tipos de atribuição.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/bin/Debug/net9.0/02- Tipos de atribuição.pdb
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/02- Tipos de atribuição.GeneratedMSBuildEditorConfig.editorconfig
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/02- Tipos de atribuição.AssemblyInfoInputs.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/02- Tipos de atribuição.AssemblyInfo.cs
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/02- Tipos de atribuição.csproj.CoreCompileInputs.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/02- Tipos de atribuição.sourcelink.json
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/02- Tipos de atribuição.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/refint/02- Tipos de atribuição.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/02- Tipos de atribuição.pdb
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/02- Tipos de atribuição.genruntimeconfig.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/02- Tipos de atribuição/obj/Debug/net9.0/ref/02- Tipos de atribuição.dll
