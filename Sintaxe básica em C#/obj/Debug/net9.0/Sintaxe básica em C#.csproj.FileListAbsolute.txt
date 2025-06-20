@@ -1,0 +1,14 @@
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/bin/Debug/net9.0/Sintaxe básica em C#
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/bin/Debug/net9.0/Sintaxe básica em C#.deps.json
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/bin/Debug/net9.0/Sintaxe básica em C#.runtimeconfig.json
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/bin/Debug/net9.0/Sintaxe básica em C#.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/bin/Debug/net9.0/Sintaxe básica em C#.pdb
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/obj/Debug/net9.0/Sintaxe básica em C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/obj/Debug/net9.0/Sintaxe básica em C#.AssemblyInfoInputs.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/obj/Debug/net9.0/Sintaxe básica em C#.AssemblyInfo.cs
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/obj/Debug/net9.0/Sintaxe básica em C#.csproj.CoreCompileInputs.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/obj/Debug/net9.0/Sintaxe básica em C#.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/obj/Debug/net9.0/refint/Sintaxe básica em C#.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/obj/Debug/net9.0/Sintaxe básica em C#.pdb
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/obj/Debug/net9.0/Sintaxe básica em C#.genruntimeconfig.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/Sintaxe básica em C#/obj/Debug/net9.0/ref/Sintaxe básica em C#.dll
