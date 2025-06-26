@@ -15,7 +15,8 @@ namespace ExemploExplorando.models
         //Construtor
         public Pessoa(string nome, string sobrenome)
         {
-
+            Nome = nome;
+            Sobrenome = sobrenome;
         }
 
 
