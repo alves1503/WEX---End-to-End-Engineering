@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
@@ -35,5 +36,14 @@ namespace ExemploExplorando.models
             return Alunos.Remove(aluno);
         }
 
+        //Metodo para listar alunos
+        public void ListarAlunos()
+        {
+            Console.WriteLine($"Alunos do curso de: {Nome}");
+            foreach (Pessoa aluno in Alunos)
+            {
+                Console.WriteLine(aluno.NomeCompleto);
+            }
+        }
     }
 }
