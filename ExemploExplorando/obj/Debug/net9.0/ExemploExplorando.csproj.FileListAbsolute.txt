@@ -12,3 +12,4 @@
 /home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.pdb
 /home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.genruntimeconfig.cache
 /home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ref/ExemploExplorando.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.sourcelink.json
