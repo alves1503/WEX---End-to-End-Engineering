@@ -2,14 +2,10 @@
 
 
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "Henrique";
-p1.Sobrenome = "Alves";
+Pessoa p1 = new Pessoa("Henrique", "Alves");
 
 
-Pessoa p2 = new Pessoa();
-p2.Nome = "João";
-p2.Sobrenome = "Pedro";
+Pessoa p2 = new Pessoa("Ana", "Maria");
 
 
 
