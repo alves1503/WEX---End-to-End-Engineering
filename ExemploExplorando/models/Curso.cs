@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace ExemploExplorando.models
 {
@@ -25,6 +26,13 @@ namespace ExemploExplorando.models
         {
             int quantidade = Alunos.Count; //Variavel para pegar a quantidade de alunos matriculados
             return quantidade; //Vai retornar a quantidade
+        }
+
+
+        //Metodo para remover alunos
+        public bool RemoverAluno(Pessoa aluno)
+        {
+            return Alunos.Remove(aluno);
         }
 
     }
