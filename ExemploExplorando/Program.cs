@@ -1,7 +1,84 @@
 ﻿using System.Globalization;
 using ExemploExplorando.models;
 
-string dataString = "2022-13-17 18:00";
+
+new ExemploExcecao().Metodo1();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+try
+{
+
+
+    string[] linhas = File.ReadAllLines("arquivos/arquivoLeitura.txt");
+
+    foreach (string linha in linhas)
+    {
+        Console.WriteLine(linha);
+    }
+
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"Ocorreu uma exceção generica. {ex.Message}");
+}
+
+finally 
+{
+    Console.WriteLine($"Chegou ate aqui");
+}
+
+
+
+
+
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* string dataString = "2022-13-17 18:00";
 
 
 
@@ -15,7 +92,7 @@ if (sucesso)
 else
 {
     Console.WriteLine($"{dataString} não é uma data valida");
-}
+} */
 
 
 
