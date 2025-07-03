@@ -2,7 +2,27 @@
 using ExemploExplorando.models;
 
 
-new ExemploExcecao().Metodo1();
+
+
+Dictionary<string, string> estados = new Dictionary<string, string>();
+
+estados.Add("MG", "Minas Gerais");
+estados.Add("SP", "São Paulo");
+
+estados["SP"] = "São Paulo valor alterado";
+
+
+foreach (var item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key} e o valor: {item.Value}");
+}
+
+
+estados.Remove("SP");
+foreach (var item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key} e o valor: {item.Value}");
+}
 
 
 
@@ -10,6 +30,66 @@ new ExemploExcecao().Metodo1();
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+/* Stack<int> pilha = new Stack<int>();
+
+pilha.Push(5);
+pilha.Push(57);
+pilha.Push(50);
+
+
+foreach (int i in pilha)
+{
+    Console.WriteLine(i);
+}
+
+
+Console.WriteLine($"Item da pilha removida {pilha.Pop()}");
+
+
+foreach (int i in pilha)
+{
+    Console.WriteLine(i);
+}
+
+ */
+
+
+
+
+
+/* Queue<int> fila = new Queue<int>();
+
+fila.Enqueue(2); //Adiciona o elemnto ao final da fila
+
+fila.Enqueue(3);
+
+fila.Enqueue(8);
+
+fila.Enqueue(9);
+
+
+foreach (int item in fila)
+{
+    Console.WriteLine(item);
+}
+
+Console.WriteLine($"Removendo o elemento {fila.Dequeue()}");
+
+
+
+ */
 
 
 
