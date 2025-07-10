@@ -1,22 +1,19 @@
 ﻿using ExemploPoo.models;
 
 
-ContaCorrente c1 = new ContaCorrente(123, 1000);
+/* Aluno a1 = new Aluno();
+Console.WriteLine("Digite seu nome: ");
+a1.Nome = Convert.ToString(Console.ReadLine());
+Console.WriteLine("Digite sua idade: ");
+a1.Idade = Convert.ToInt32(Console.ReadLine());
+a1.Nota = 10;
+
+a1.Apresentar();  */
 
 
 
-
-c1.ExibirSaldo();
-c1.Sacar(500);
-c1.ExibirSaldo();
-
-
-
-
-
-
-/* Pessoa p1 = new Pessoa();
-p1.Nome = "Henrique";
-p1.Idade = 20;
-
-p1.Apresentar(); */
+Professor p1 = new Professor();
+p1.Nome = "Mateus";
+p1.Idade = 30;
+p1.Salario = 5000;
+p1.Apresentar();
