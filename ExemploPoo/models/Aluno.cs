@@ -8,6 +8,11 @@ namespace ExemploPoo.models
     public class Aluno : Pessoa //Vai herdar a clsse pessoa 
     {
 
+        public Aluno(string nome) : base(nome)
+        {
+            
+        }
+
         public double Nota { get; set; }
 
 
